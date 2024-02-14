@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbregieira&label=Profile%20views&color=0e75b6&style=flat" alt="mbregieira" /> </p>
 
-- 🌱 I’m currently pursuing **a bachelor's degree in Computer Science.**
+- 🌱 I’m currently pursuing **a bachelor's degree in Computer Engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
