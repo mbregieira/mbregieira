@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo Bregieira</h1>
-<h3 align="center">Computer Science bachelor student and a Cybersecurity and DFIR enthusiast</h3>
+<h3 align="center">Computer Science degree student and a Cybersecurity and DFIR enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbregieira&label=Profile%20views&color=0e75b6&style=flat" alt="mbregieira" /> </p>
 
