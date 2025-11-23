@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=mbregieira&label=Profile%20views&color=0e75b6&style=flat" alt="mbregieira" />
 </p>
 
-- Graduated in **Computer Science**
+- Graduated in **Computer Science** - Academic Merit Award
 - Team Leader in Digital Forensics at the **Portuguese National Republican Guard (GNR)**
 - Completed training for **Certified Penetration Testing Specialist (CPTS)** — exam pending
 - Preparing for the **Offensive Security Certified Professional (OSCP)** certification
