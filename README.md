@@ -8,7 +8,7 @@
 - Graduated in **Computer Science** - Academic Merit Award
 - Team Leader in Digital Forensics at the **Portuguese National Republican Guard (GNR)**
 - **Certified Penetration Testing Specialist (CPTS)** from Hack The Box.
-- Preparing for the **Offensive Security Certified Professional (OSCP)** certification
+- **OffSec Certified Professional (OSCP)** from OffSec
 - Experienced with forensic tools: **Cellebrite, XRY, Oxygen, GrayKey, FTK, Autopsy, etc.**
 - Involved in **real-world criminal investigations**: search, seizure, extraction, analysis and chain-of-custody assurance
 - Passionate about **Hacking, DFIR, Penetration Testing and Cybersecurity**, and applying tech in law enforcement
