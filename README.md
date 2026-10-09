@@ -9,7 +9,7 @@
 - Team Leader in Digital Forensics at the **Portuguese National Republican Guard (GNR)**
 - **Certified Penetration Testing Specialist (CPTS)** from Hack The Box.
 - **OffSec Certified Professional (OSCP)** from OffSec
-- **Certified Red Team Operator** from Zero Point Security
+- **Certified Red Team Operator (CRTO)** from Zero Point Security
 - Experienced with forensic tools: **Cellebrite, XRY, Oxygen, GrayKey, FTK, Autopsy, etc.**
 - Involved in **real-world criminal investigations**: search, seizure, extraction, analysis and chain-of-custody assurance
 - Passionate about **Hacking, DFIR, Red Team, Penetration Testing and Cybersecurity**, and applying tech in law enforcement
